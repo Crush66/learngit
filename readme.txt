@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+Crush is a bad boy.
+Crush is a god boy.
